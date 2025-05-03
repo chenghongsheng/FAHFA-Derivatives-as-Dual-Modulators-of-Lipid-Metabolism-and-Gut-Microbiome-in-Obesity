@@ -10,8 +10,8 @@ This repository contains the R scripts for the RNA-seq analysis and 16S rRNA pro
 
 ## Contents of the Repository
 
-- RNAseq: R script detailing the pipeline used transcriptome analysis of the intestinal epithelial scrapings.
-- 16S: Rscript for analysis of the 16S rRNA profiles.
+- RNAseq: This folder includes the count data, metadata and R script detailing the pipeline used transcriptome analysis of the intestinal epithelial scrapings.
+- 16S: This folder includes the count data and Rscript for analysis of the 16S rRNA profiles.
 
 ## Overview
 
